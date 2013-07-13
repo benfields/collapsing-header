@@ -5,13 +5,6 @@ This uses HTML5 and CSS3 to create the popular collapsing header that we all lov
 
 =================
 
-```
---> if using this code, make sure to let users know that 
-it's publicly availible to make it their own
-```
-
-=================
-
 ### Source License
 
 The resources found here can be used freely in personal and commercial projects if integrated and built upon. If using this code, I expect that you let your users know that the source is available on GitHub, and tell them how to find it. This can be done in the form of a link. 
